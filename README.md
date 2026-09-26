@@ -82,7 +82,7 @@ DelayedLauncher checks whether configured applications are currently running.
 A small status indicator is shown next to each application:
 - green: the application is running
 - gray: the application is not running
-- 
+
 The status is updated automatically while DelayedLauncher is open.
 
 ## Startup delays
@@ -108,7 +108,7 @@ At the next login:
 4. enabled applications are launched when their delays expire
 5. applications that are already running are skipped
 6. DelayedLauncher closes automatically when its work is complete
-7. 
+
 When DelayedLauncher is opened manually, only the configuration interface is shown and the startup sequence is not executed.
 
 ## Building from source
@@ -117,7 +117,7 @@ Requirements:
 - macOS
 - Xcode
 - Apple Silicon Mac
-- 
+
 Clone the repository:
 
 ```bash
